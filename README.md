@@ -3,6 +3,7 @@
 
 
 <h1 align="left">Eiii👋 Tudo Bem?</h1>
+<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas apaixonado por programação. Busco constantemente aprimorar minhas habilidades e explorar novas tecnologias. Pronto para contribuir em projetos empolgantes e fazer a diferença! </p>
 
 ###
 
@@ -10,7 +11,7 @@
 
 ###
 
-<p align="left">Eu moro em Nova Cruz-RN, Brasíl 😎🙍‍♂️<br>Sou graduando em Análise e Desenvolvimento de Sistema 📚👨‍💻<br>Atualmente estudando Spring-Boot 🌱</p>
+<p align="left">Eu moro em Nova Cruz-RN, Brasíl 😎🙍‍♂️<br>Atualmente estudando Spring-Boot 🌱</p>
 
 ###
 
