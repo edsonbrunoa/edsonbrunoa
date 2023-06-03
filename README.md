@@ -1,6 +1,6 @@
-<p align="left">Sou Edson Bruno, estudante de Análise e Desenvolvimento de Sistemas apaixonado por programação. Busco constantemente aprimorar minhas habilidades e explorar novas tecnologias. Pronto para contribuir em projetos empolgantes e fazer a diferença!</p>
 
 ###
+
 
 <h1 align="left">Eiii👋 Tudo Bem?</h1>
 
