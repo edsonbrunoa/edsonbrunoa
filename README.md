@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 
-  <a href="linkedin.com/in/edson-bruno-a128aa217" target="_black">
+  <a href="https://www.linkedin.com/in/edson-bruno-a128aa217/" target="_black">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 
