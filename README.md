@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">Eu moro em Nova Cruz-RN, Brasíl 😎🙍‍♂️<br>Atualmente estudando Spring-Boot 🌱</p>
+<p align="left">Eu moro em Nova Cruz-RN, Brasíl 😎🙍‍♂️<br>Atualmente estudando Bootcamp Full Stack da Xp Inc. em parceria com a DIO.</p>
 
 ###
 
